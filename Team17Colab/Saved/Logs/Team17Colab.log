@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 05/09/20 14:38:27
+=======
+﻿Log file open, 05/10/20 20:35:16
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 05/10/20 20:35:16
 >>>>>>> Stashed changes
@@ -24,7 +28,11 @@ LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.525214
+=======
+LogStats: Stats thread started at 0.057257
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.057257
 >>>>>>> Stashed changes
@@ -187,6 +195,7 @@ LogInit: Presizing for max 25165824 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -1134,6 +1143,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 [2020.05.10-19.35.16:351][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.05.10-19.35.16:351][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.05.10-19.35.16:351][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/JSColabTeam17/Team17Colab/Saved/Config/Windows/Engine.ini]
@@ -2005,6 +2016,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.10-19.35.32:665][743]Log file closed, 05/10/20 20:35:32
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
