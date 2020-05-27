@@ -711,3 +711,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.27-19.33.14:758][ 31]LogFileHelpers: Saving map 'RiverV2-art' took 0.979
 [2020.05.27-19.33.14:779][ 31]AssetCheck: New page: Asset Save: RiverV2-art
 [2020.05.27-19.33.14:779][ 31]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/RiverV2-art.RiverV2-art
+[2020.05.27-19.34.51:125][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
