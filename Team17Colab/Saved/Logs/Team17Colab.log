@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 06/01/20 15:53:41
 =======
 ﻿Log file open, 06/01/20 14:16:01
@@ -7,6 +8,9 @@
 =======
 ﻿Log file open, 06/01/20 13:15:46
 >>>>>>> parent of 3bf2df7... Added Cannon Urn
+=======
+﻿Log file open, 06/01/20 15:53:41
+>>>>>>> parent of 99ff0d6... updating branch kieran_edge
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -16,10 +20,10 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
 LogInit: Display: Running engine for game: Team17Colab
 LogPlatformFile: Not using cached read wrapper
-<<<<<<< HEAD
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 <<<<<<< HEAD
 LogStats: Stats thread started at 0.678839
+<<<<<<< HEAD
 =======
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.068378
@@ -27,6 +31,8 @@ LogStats: Stats thread started at 0.068378
 =======
 LogStats: Stats thread started at 0.068101
 >>>>>>> parent of 3bf2df7... Added Cannon Urn
+=======
+>>>>>>> parent of 99ff0d6... updating branch kieran_edge
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -184,6 +190,9 @@ LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 99ff0d6... updating branch kieran_edge
 [2020.06.01-14.53.58:400][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.06.01-14.53.58:400][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.06.01-14.53.58:415][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/Config/Windows/Engine.ini]
@@ -1951,6 +1960,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.01-15.08.02:514][756]LogD3D11RHI: CleanupD3DDevice
 [2020.06.01-15.08.02:531][756]LogExit: Exiting.
 [2020.06.01-15.08.02:553][756]Log file closed, 06/01/20 16:08:02
+<<<<<<< HEAD
 =======
 [2020.06.01-13.16.01:659][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.06.01-13.16.01:659][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -7883,3 +7893,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.01-13.29.06:691][777]LogExit: Exiting.
 [2020.06.01-13.29.06:705][777]Log file closed, 06/01/20 14:29:06
 >>>>>>> parent of 3bf2df7... Added Cannon Urn
+=======
+>>>>>>> parent of 99ff0d6... updating branch kieran_edge
