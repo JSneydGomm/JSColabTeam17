@@ -4899,3 +4899,444 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.04-11.29.07:659][250]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
 [2020.06.04-11.29.07:659][250]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2020.06.04-11.29.07:659][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-11.40.12:703][483]LogMaterial: Display: Missing cached shader map for material M_Ring_effects1, compiling. 
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.06.04-11.40.12:730][484]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.40.15:084][725]LogMaterial: Display: Missing cached shader map for material M_Ring_effects2, compiling. 
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.06.04-11.40.15:110][726]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.40.26:073][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Speed_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Speed_effects.uasset" SILENT=true
+[2020.06.04-11.40.26:085][997]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Speed_effectsF220F3234DA708A11E7409B35D680620.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Speed_effects.uasset'
+[2020.06.04-11.40.26:193][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.06.04-11.40.26:228][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.06.04-11.40.26:253][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.06.04-11.40.26:275][997]AssetCheck: New page: Asset Save: M_Speed_effects
+[2020.06.04-11.40.26:275][997]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Speed_effects.M_Speed_effects
+[2020.06.04-11.40.43:405][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Jump_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset" SILENT=true
+[2020.06.04-11.40.43:417][ 21]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Jump_effects25977EE54C6B63D384CB5BA9ABC3D608.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset'
+[2020.06.04-11.40.43:524][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.06.04-11.40.43:557][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.04-11.40.43:583][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.06.04-11.40.43:604][ 21]AssetCheck: New page: Asset Save: M_Jump_effects
+[2020.06.04-11.40.43:604][ 21]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Jump_effects.M_Jump_effects
+[2020.06.04-11.40.51:871][794]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\marblegame\Speed_Effect.png)
+[2020.06.04-11.40.51:884][794]LogTexture: Display: Building textures: Speed_Effect (AutoDXT, 1024X1024)
+[2020.06.04-11.40.55:142][979]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VFX/power_ups/M_Speed_effects.M_Speed_effects
+[2020.06.04-11.40.55:147][979]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.40.55:211][979]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.40.55:222][979]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.40.55:233][979]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.40.55:239][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.04-11.40.55:249][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.06.04-11.40.55:468][985]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.06.04-11.40.55:491][987]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.06.04-11.40.55:572][995]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.06.04-11.40.55:582][996]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.06.04-11.40.55:691][  8]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.06.04-11.40.55:701][  9]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.40.55:711][ 10]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.06.04-11.40.55:812][ 21]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.06.04-11.40.55:985][ 39]MaterialEditorStats: Base pass shader without light map: 64 instructions
+[2020.06.04-11.40.55:985][ 39]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.40.55:985][ 39]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.40.55:985][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.40.55:985][ 39]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.41.08:010][455]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.41.08:029][455]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.41.08:029][455]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.06.04-11.41.08:041][455]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.08:173][466]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.06.04-11.41.08:182][467]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.06.04-11.41.08:275][476]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.06.04-11.41.08:276][476]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.06.04-11.41.08:415][491]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.04-11.41.08:426][492]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.04-11.41.08:437][493]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.41.08:525][503]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.06.04-11.41.08:541][505]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.06.04-11.41.08:550][506]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.06.04-11.41.08:559][507]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.06.04-11.41.08:560][507]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.06.04-11.41.09:056][561]MaterialEditorStats: Base pass shader without light map: 64 instructions
+[2020.06.04-11.41.09:056][561]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.41.09:056][561]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.41.09:056][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.41.09:056][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.41.15:397][301]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.41.15:415][301]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.41.15:415][301]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.04-11.41.15:427][301]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.15:544][310]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.06.04-11.41.15:554][311]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.06.04-11.41.15:665][322]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.06.04-11.41.15:674][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.06.04-11.41.15:785][335]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.04-11.41.15:795][336]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.04-11.41.15:815][338]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.41.15:887][346]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.06.04-11.41.15:924][350]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.06.04-11.41.15:940][352]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.06.04-11.41.15:949][353]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.04-11.41.15:967][355]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.06.04-11.41.16:453][411]MaterialEditorStats: Base pass shader without light map: 64 instructions
+[2020.06.04-11.41.16:453][411]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.41.16:453][411]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.41.16:453][411]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.41.16:453][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.41.21:104][968]LogMaterialEditor: Applying material M_Speed_effects
+[2020.06.04-11.41.21:487][968]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.41.21:507][968]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.41.21:539][968]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.21:581][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.06.04-11.41.21:598][968]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 16
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.06.04-11.41.21:865][968]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.06.04-11.41.21:867][968]TextureStreamingBuild: Display: Compiling optional shaders took 0.283 seconds.
+[2020.06.04-11.41.21:900][968]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.06.04-11.41.21:900][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.06.04-11.41.22:158][996]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.06.04-11.41.22:243][  5]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.41.22:353][ 16]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.41.22:363][ 17]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.04-11.41.22:371][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.06.04-11.41.22:381][ 19]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.41.22:405][ 21]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.06.04-11.41.22:921][ 66]MaterialEditorStats: Base pass shader without light map: 64 instructions
+[2020.06.04-11.41.22:922][ 66]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.41.22:922][ 66]MaterialEditorStats: Texture samplers: 8/16
+[2020.06.04-11.41.22:922][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.41.22:922][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.41.25:183][332]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/VFX/power_ups/PS_Speed_Effects.PS_Speed_Effects
+[2020.06.04-11.41.43:901][516]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.43:917][516]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.41.43:924][516]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.41.44:183][546]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.06.04-11.41.44:184][546]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.06.04-11.41.44:268][554]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.06.04-11.41.44:278][555]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.06.04-11.41.44:618][593]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.06.04-11.41.44:618][593]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.41.44:618][593]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.41.44:618][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.41.44:618][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.41.46:665][836]LogMaterialEditor: Applying material M_Speed_effects
+[2020.06.04-11.41.47:053][836]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.41.47:082][836]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.41.47:092][836]LogMaterial: Display: Missing cached shader map for material M_Speed_effects, compiling. 
+[2020.06.04-11.41.47:143][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.06.04-11.41.47:158][836]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.06.04-11.41.47:459][836]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.06.04-11.41.47:461][836]TextureStreamingBuild: Display: Compiling optional shaders took 0.318 seconds.
+[2020.06.04-11.41.47:497][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.06.04-11.41.47:724][861]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.06.04-11.41.47:833][873]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.41.47:927][884]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.06.04-11.41.47:936][885]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.06.04-11.41.47:943][886]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.06.04-11.41.47:959][888]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.06.04-11.41.47:959][888]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.41.48:488][948]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.06.04-11.41.48:488][948]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.41.48:488][948]MaterialEditorStats: Texture samplers: 8/16
+[2020.06.04-11.41.48:488][948]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.41.48:488][948]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.42.12:942][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/PS_Speed_Effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/PS_Speed_Effects.uasset" SILENT=true
+[2020.06.04-11.42.12:967][860]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/PS_Speed_Effects5DD704914F2F75859E5680878598843B.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/PS_Speed_Effects.uasset'
+[2020.06.04-11.42.12:976][860]AssetCheck: New page: Asset Save: PS_Speed_Effects
+[2020.06.04-11.42.12:976][860]LogContentValidation: Display: Validating ParticleSystem /Game/VFX/power_ups/PS_Speed_Effects.PS_Speed_Effects
+[2020.06.04-11.42.14:866][ 69]LogMaterialEditor: Saving and Compiling material M_Speed_effects
+[2020.06.04-11.42.14:899][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Speed_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Speed_effects.uasset" SILENT=true
+[2020.06.04-11.42.14:926][ 69]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Speed_effectsF6D1EBE14C287AE47F6AFEA560A21C70.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Speed_effects.uasset'
+[2020.06.04-11.42.14:938][ 69]AssetCheck: New page: Asset Save: M_Speed_effects
+[2020.06.04-11.42.14:938][ 69]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Speed_effects.M_Speed_effects
+[2020.06.04-11.42.51:849][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.06.04-11.42.51:850][574]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Miles/AssetZoo' took 0.026
+[2020.06.04-11.42.51:851][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VFX/power_ups/Speed_Effect] ([1] browsable assets)...
+[2020.06.04-11.42.51:853][574]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VFX/power_ups/Speed_Effect.Speed_Effect]
+[2020.06.04-11.42.51:853][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/VFX/power_ups/Speed_Effect]
+[2020.06.04-11.42.51:861][574]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/Speed_Effect_Auto5D896DF0E4B9B8465868E5F94DC5CC390.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/Autosaves/Game/VFX/power_ups/Speed_Effect_Auto5.uasset'
+[2020.06.04-11.42.51:862][574]LogFileHelpers: Auto-saving content packages took 0.012
+[2020.06.04-11.48.59:327][963]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Jump_Effects)
+[2020.06.04-11.49.04:379][317]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\marblegame\Jump_Effect.png)
+[2020.06.04-11.49.04:393][317]LogTexture: Display: Building textures: Jump_Effect (AutoDXT, 1024X1024)
+[2020.06.04-11.49.09:534][648]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VFX/power_ups/M_Jump_effects.M_Jump_effects
+[2020.06.04-11.49.09:539][648]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.09:607][648]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.09:619][648]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.49.09:632][648]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.49.09:637][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.04-11.49.09:647][648]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.06.04-11.49.09:886][656]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.49.09:897][657]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.10:008][668]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.10:068][674]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.10:132][681]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.06.04-11.49.10:142][682]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.06.04-11.49.10:201][688]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.06.04-11.49.10:246][693]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2020.06.04-11.49.10:442][712]MaterialEditorStats: Base pass shader without light map: 64 instructions
+[2020.06.04-11.49.10:442][712]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.49.10:442][712]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.49.10:443][712]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.49.10:443][712]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.49.13:193][ 40]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.49.13:207][ 40]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.49.13:212][ 40]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.06.04-11.49.13:347][ 55]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.06.04-11.49.13:358][ 56]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.06.04-11.49.13:446][ 64]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.06.04-11.49.13:469][ 66]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.04-11.49.13:892][107]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.06.04-11.49.13:892][107]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.49.13:892][107]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.49.13:892][107]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.49.13:892][107]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.49.14:624][193]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.49.14:642][194]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.49.22:287][ 87]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.49.22:302][ 87]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.49.22:302][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.06.04-11.49.22:314][ 87]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.22:449][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.06.04-11.49.22:471][100]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.06.04-11.49.22:557][108]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.06.04-11.49.22:568][109]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.06.04-11.49.22:695][122]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.04-11.49.22:725][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.04-11.49.22:736][126]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.49.22:846][135]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.06.04-11.49.22:848][135]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.06.04-11.49.22:859][137]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.06.04-11.49.22:880][139]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.06.04-11.49.22:888][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.06.04-11.49.23:395][194]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.06.04-11.49.23:395][194]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.49.23:395][194]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.49.23:395][194]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.49.23:395][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.49.27:056][619]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.27:064][619]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.49.27:067][619]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.49.27:072][619]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.04-11.49.27:084][619]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.27:215][629]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.06.04-11.49.27:225][630]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.06.04-11.49.27:315][638]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.06.04-11.49.27:325][639]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.06.04-11.49.27:471][653]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.06.04-11.49.27:482][654]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.06.04-11.49.27:493][655]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.49.27:580][664]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.06.04-11.49.27:591][665]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.06.04-11.49.27:619][668]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.06.04-11.49.27:638][670]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.06.04-11.49.27:648][671]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.06.04-11.49.28:150][728]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.06.04-11.49.28:150][728]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.49.28:150][728]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.04-11.49.28:150][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.49.28:150][728]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.49.29:084][839]LogMaterialEditor: Applying material M_Jump_effects
+[2020.06.04-11.49.29:472][839]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.06.04-11.49.29:514][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.06.04-11.49.29:525][839]LogMaterial: Display: Missing cached shader map for material M_Jump_effects, compiling. 
+[2020.06.04-11.49.29:576][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.06.04-11.49.29:592][839]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 27
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 26
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.06.04-11.49.29:894][839]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2020.06.04-11.49.29:897][839]TextureStreamingBuild: Display: Compiling optional shaders took 0.319 seconds.
+[2020.06.04-11.49.29:931][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.06.04-11.49.30:251][874]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.06.04-11.49.30:327][882]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.06.04-11.49.30:383][888]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.06.04-11.49.30:391][889]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.06.04-11.49.30:430][893]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.06.04-11.49.30:458][896]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.06.04-11.49.30:494][900]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.06.04-11.49.30:582][910]LogMaterialEditor: Saving and Compiling material M_Jump_effects
+[2020.06.04-11.49.30:978][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Jump_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset" SILENT=true
+[2020.06.04-11.49.31:008][910]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Jump_effectsFA19583E47AC8016C8C080B8940CC90C.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset'
+[2020.06.04-11.49.31:020][910]AssetCheck: New page: Asset Save: M_Jump_effects
+[2020.06.04-11.49.31:020][910]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Jump_effects.M_Jump_effects
+[2020.06.04-11.49.31:021][910]MaterialEditorStats: Base pass shader without light map: 55 instructions
+[2020.06.04-11.49.31:021][910]MaterialEditorStats: Base pass vertex shader: 169 instructions
+[2020.06.04-11.49.31:021][910]MaterialEditorStats: Texture samplers: 8/16
+[2020.06.04-11.49.31:021][910]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.06.04-11.49.31:021][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.04-11.49.33:522][192]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/VFX/power_ups/PS_Jump_Effects.PS_Jump_Effects
+[2020.06.04-11.50.04:298][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/PS_Jump_Effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/PS_Jump_Effects.uasset" SILENT=true
+[2020.06.04-11.50.04:321][804]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/PS_Jump_EffectsFB3351D14B941764170947997F3CFF66.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/PS_Jump_Effects.uasset'
+[2020.06.04-11.50.04:331][804]AssetCheck: New page: Asset Save: PS_Jump_Effects
+[2020.06.04-11.50.04:331][804]LogContentValidation: Display: Validating ParticleSystem /Game/VFX/power_ups/PS_Jump_Effects.PS_Jump_Effects
+[2020.06.04-11.50.09:915][456]LogMaterialEditor: Saving and Compiling material M_Jump_effects
+[2020.06.04-11.50.09:935][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Jump_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset" SILENT=true
+[2020.06.04-11.50.09:956][456]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Jump_effectsED2DB2804882B3E49FF2D8876A160395.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset'
+[2020.06.04-11.50.09:965][456]AssetCheck: New page: Asset Save: M_Jump_effects
+[2020.06.04-11.50.09:965][456]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Jump_effects.M_Jump_effects
+[2020.06.04-11.50.11:253][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/PS_Speed_Effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/PS_Speed_Effects.uasset" SILENT=true
+[2020.06.04-11.50.11:275][593]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/PS_Speed_Effects7D6E4C024893C0197B891BAC59CF0968.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/PS_Speed_Effects.uasset'
+[2020.06.04-11.50.11:284][593]AssetCheck: New page: Asset Save: PS_Speed_Effects
+[2020.06.04-11.50.11:284][593]LogContentValidation: Display: Validating ParticleSystem /Game/VFX/power_ups/PS_Speed_Effects.PS_Speed_Effects
+[2020.06.04-11.50.12:258][703]LogCascade: Quitting Cascade. FXSystem=0x0000026BAB15AD80
+[2020.06.04-11.50.12:287][703]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-11.50.12:287][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-11.50.12:783][754]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-11.50.12:783][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-11.50.13:230][806]LogCascade: Quitting Cascade. FXSystem=0x0000026BAC8D3C60
+[2020.06.04-11.50.13:259][806]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2020.06.04-11.50.13:259][806]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-11.50.13:259][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-11.50.13:954][881]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-11.50.13:955][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-11.50.59:860][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/T_Jump_Effect" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/T_Jump_Effect.uasset" SILENT=true
+[2020.06.04-11.50.59:895][299]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/T_Jump_Effect73029E38445E9DBB3DA249AF3916EDDA.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/T_Jump_Effect.uasset'
+[2020.06.04-11.51.00:036][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.06.04-11.51.00:073][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.06.04-11.51.00:099][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.06.04-11.51.00:125][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Jump_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset" SILENT=true
+[2020.06.04-11.51.00:144][299]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Jump_effects4AF6792E4472A40C2F7E55B2A860CAF5.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Jump_effects.uasset'
+[2020.06.04-11.51.00:177][299]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.04-11.51.00:177][299]LogContentValidation: Display: Validating Texture2D /Game/VFX/power_ups/T_Jump_Effect.T_Jump_Effect
+[2020.06.04-11.51.00:177][299]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Jump_effects.M_Jump_effects
+[2020.06.04-11.51.09:985][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/T_Speed_Effect" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/T_Speed_Effect.uasset" SILENT=true
+[2020.06.04-11.51.10:020][442]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/T_Speed_EffectC6721C5F48DC5AE4D565B98849611C50.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/T_Speed_Effect.uasset'
+[2020.06.04-11.51.10:141][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.06.04-11.51.10:176][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.06.04-11.51.10:202][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.04-11.51.10:216][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Speed_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Speed_effects.uasset" SILENT=true
+[2020.06.04-11.51.10:240][442]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Speed_effects5C512319486B400DF554A1B2CA9641A3.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Speed_effects.uasset'
+[2020.06.04-11.51.10:272][442]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.04-11.51.10:272][442]LogContentValidation: Display: Validating Texture2D /Game/VFX/power_ups/T_Speed_Effect.T_Speed_Effect
+[2020.06.04-11.51.10:272][442]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Speed_effects.M_Speed_effects
+[2020.06.04-11.51.19:128][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/T_ring_effect" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/T_ring_effect.uasset" SILENT=true
+[2020.06.04-11.51.19:163][474]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/T_ring_effectFDED5B554DB5A8D006D82D9E629EF610.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/T_ring_effect.uasset'
+[2020.06.04-11.51.19:282][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.06.04-11.51.19:316][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.06.04-11.51.19:342][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.04-11.51.19:357][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/power_ups/M_Ring_effects" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Ring_effects.uasset" SILENT=true
+[2020.06.04-11.51.19:381][474]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/M_Ring_effects1EBA9E7D41E29C5D36428DBBE6D28886.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/VFX/power_ups/M_Ring_effects.uasset'
+[2020.06.04-11.51.19:412][474]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.04-11.51.19:412][474]LogContentValidation: Display: Validating Texture2D /Game/VFX/power_ups/T_ring_effect.T_ring_effect
+[2020.06.04-11.51.19:412][474]LogContentValidation: Display: Validating Material /Game/VFX/power_ups/M_Ring_effects.M_Ring_effects
+[2020.06.04-11.51.29:299][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Miles/AssetZoo" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/Miles/AssetZoo.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.04-11.51.29:326][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.06.04-11.51.29:360][649]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/AssetZoo0F1C79354D7C1BDE71D8E89F5EFF393C.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/Miles/AssetZoo.umap'
+[2020.06.04-11.51.29:392][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Miles/AssetZoo_BuiltData" FILE="C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/Miles/AssetZoo_BuiltData.uasset" SILENT=true
+[2020.06.04-11.51.29:421][649]LogSavePackage: Moving 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Saved/AssetZoo_BuiltData17EE54F64F40568D11D257BFF148CB62.tmp' to 'C:/Users/kme97/Documents/GitHub/JSColabTeam17/Team17Colab/Content/Miles/AssetZoo_BuiltData.uasset'
+[2020.06.04-11.51.29:434][649]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.04-11.51.29:434][649]LogContentValidation: Display: Validating World /Game/Miles/AssetZoo.AssetZoo
+[2020.06.04-11.51.29:435][649]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Miles/AssetZoo_BuiltData.AssetZoo_BuiltData
