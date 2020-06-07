@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.team17colab-11590370.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "E:/Program Files (x86)/Marble Repo/JSColabTeam17/Team17Colab/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Team17Colab-11590370 [UE Editor]"
+				}
+			}
+		}
+	]
+}
