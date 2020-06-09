@@ -1,0 +1,789 @@
+﻿Log file open, 06/04/20 16:32:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Team17Colab
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.079185
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: F:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.04-15.32.26:575][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.04-15.32.26:575][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.04-15.32.26:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:576][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.04-15.32.26:576][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:576][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:583][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.04-15.32.26:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.04-15.32.26:584][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.04-15.32.26:585][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.04-15.32.26:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.04-15.32.26:585][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.04-15.32.26:585][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.04-15.32.26:585][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.04-15.32.26:587][  0]LogHAL: Display: Platform has ~ 16 GB [17127866368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.04-15.32.26:587][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.04-15.32.26:587][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:587][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.04-15.32.26:587][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.04-15.32.26:587][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.04-15.32.26:588][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Scalability.ini]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.06.04-15.32.26:589][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Config/Windows/Engine.ini]
+[2020.06.04-15.32.26:589][  0]LogInit: Computer: DESKTOP-KM74U0V
+[2020.06.04-15.32.26:589][  0]LogInit: User: XBOXF
+[2020.06.04-15.32.26:589][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.06.04-15.32.26:589][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.04-15.32.26:590][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2020.06.04-15.32.26:590][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.04-15.32.26:590][  0]LogMemory: Process Physical Memory: 108.25 MB used, 108.25 MB peak
+[2020.06.04-15.32.26:590][  0]LogMemory: Process Virtual Memory: 103.57 MB used, 103.57 MB peak
+[2020.06.04-15.32.26:590][  0]LogMemory: Physical Memory: 9078.55 MB used,  7255.85 MB free, 16334.41 MB total
+[2020.06.04-15.32.26:590][  0]LogMemory: Virtual Memory: 5140.55 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.06.04-15.32.26:594][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.04-15.32.26:614][  0]LogInit: Using OS detected language (en-GB).
+[2020.06.04-15.32.26:614][  0]LogInit: Using OS detected locale (en-GB).
+[2020.06.04-15.32.26:614][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.06.04-15.32.26:801][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.04-15.32.26:839][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.04-15.32.26:839][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.04-15.32.27:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.04-15.32.27:029][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.04-15.32.27:029][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.04-15.32.27:029][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.04-15.32.27:113][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.06.04-15.32.27:113][  0]LogD3D11RHI:       8088/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.06.04-15.32.27:116][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.04-15.32.27:116][  0]LogD3D11RHI:       0/0/8167 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.04-15.32.27:116][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.04-15.32.27:127][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.04-15.32.27:128][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.04-15.32.27:128][  0]LogWindows: EnumDisplayDevices:
+[2020.06.04-15.32.27:128][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.06.04-15.32.27:128][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.06.04-15.32.27:129][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.04-15.32.27:129][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.06.04-15.32.27:129][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.04-15.32.27:129][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.06.04-15.32.27:129][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.06.04-15.32.27:129][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.06.04-15.32.27:129][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.06.04-15.32.27:189][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.04-15.32.27:189][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.04-15.32.27:213][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.04-15.32.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.04-15.32.27:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.04-15.32.27:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.04-15.32.27:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.04-15.32.27:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.04-15.32.27:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.04-15.32.27:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.04-15.32.27:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.04-15.32.27:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.04-15.32.27:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.04-15.32.27:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.04-15.32.27:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.04-15.32.27:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.04-15.32.27:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.04-15.32.27:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.04-15.32.27:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.04-15.32.27:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.04-15.32.27:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.04-15.32.27:798][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.04-15.32.27:801][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.04-15.32.27:823][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Intermediate/Shaders/WorkingDirectory/6760/).
+[2020.06.04-15.32.27:824][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/XBOXF/AppData/Local/Temp/UnrealShaderWorkingDir/AC8D1DA04B4FF5A26284E985D997CBBA/'.
+[2020.06.04-15.32.27:824][  0]LogXGEController: Cleaning working directory: C:/Users/XBOXF/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.04-15.32.27:824][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.04-15.32.27:825][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.04-15.32.27:825][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.04-15.32.28:667][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.04-15.32.28:723][  0]LogDerivedDataCache: Loaded boot cache 0.06s 80MB C:/Users/XBOXF/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.04-15.32.28:723][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/XBOXF/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.04-15.32.28:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.04-15.32.28:723][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.04-15.32.28:723][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.04-15.32.28:723][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.04-15.32.28:735][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.04-15.32.28:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.04-15.32.28:735][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.04-15.32.28:737][  0]LogDerivedDataCache: Using Local data cache path C:/Users/XBOXF/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.04-15.32.28:737][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.04-15.32.28:737][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.04-15.32.28:768][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.04-15.32.28:771][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.04-15.32.28:772][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.04-15.32.28:834][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.06.04-15.32.29:254][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.04-15.32.29:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.04-15.32.29:440][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.04-15.32.29:440][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.04-15.32.29:440][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.04-15.32.29:440][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.04-15.32.29:456][  0]LogNetVersion: Team17Colab 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1188365398)
+[2020.06.04-15.32.30:699][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.061977 seconds
+[2020.06.04-15.32.30:709][  0]LogUObjectArray: 46775 objects as part of root set at end of initial load.
+[2020.06.04-15.32.30:709][  0]LogUObjectAllocator: 8142024 out of 0 bytes used by permanent object pool.
+[2020.06.04-15.32.30:709][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.04-15.32.31:253][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.04-15.32.31:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.04-15.32.31:315][  0]SourceControl: Source control is disabled
+[2020.06.04-15.32.31:315][  0]SourceControl: Source control is disabled
+[2020.06.04-15.32.31:316][  0]SourceControl: Source control is disabled
+[2020.06.04-15.32.31:317][  0]SourceControl: Source control is disabled
+[2020.06.04-15.32.31:318][  0]SourceControl: Source control is disabled
+[2020.06.04-15.32.31:411][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.04-15.32.31:424][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.04-15.32.31:424][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.04-15.32.31:531][  0]LogOcInput: OculusInput pre-init called
+[2020.06.04-15.32.31:539][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.04-15.32.31:539][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.04-15.32.31:625][  0]LogEngine: Initializing Engine...
+[2020.06.04-15.32.31:626][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.06.04-15.32.31:627][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.04-15.32.32:065][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.04-15.32.32:071][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.04-15.32.32:086][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.04-15.32.32:086][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.04-15.32.32:086][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.04-15.32.32:147][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.04-15.32.32:182][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.04-15.32.32:187][  0]LogInit: FAudioDevice initialized.
+[2020.06.04-15.32.32:187][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.04-15.32.32:288][  0]LogDerivedDataCache: Saved boot cache 0.10s 80MB C:/Users/XBOXF/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.04-15.32.32:290][  0]LogInit: Texture streaming: Enabled
+[2020.06.04-15.32.32:301][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.04-15.32.32:301][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.04-15.32.32:304][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.04-15.32.32:376][  0]LogInit: Transaction tracking system initialized
+[2020.06.04-15.32.32:384][  0]BlueprintLog: New page: Editor Load
+[2020.06.04-15.32.32:420][  0]LocalizationService: Localization service is disabled
+[2020.06.04-15.32.32:759][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.04-15.32.32:759][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.04-15.32.32:839][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/' took 0.01s
+[2020.06.04-15.32.33:475][  0]SourceControl: Source control is disabled
+[2020.06.04-15.32.33:475][  0]Cmd: MAP LOAD FILE="../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/RollingBP/Maps/TitleScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.04-15.32.33:476][  0]LightingResults: New page: Lighting Build
+[2020.06.04-15.32.33:476][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-15.32.33:477][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-15.32.33:477][  0]MapCheck: New page: Map Check
+[2020.06.04-15.32.33:477][  0]LightingResults: New page: Lighting Build
+[2020.06.04-15.32.33:516][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.06.04-15.32.33:550][  0]LogAIModule: Creating AISystem for world TitleScreen
+[2020.06.04-15.32.33:553][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.04-15.32.33:594][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.06.04-15.32.33:595][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.04-15.32.33:595][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2020.06.04-15.32.33:595][  0]LogFileHelpers: Loading map 'TitleScreen' took 0.120
+[2020.06.04-15.32.33:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.04-15.32.33:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.04-15.32.33:746][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.04-15.32.33:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.04-15.32.33:759][  0]LogCollectionManager: Loaded 0 collections in 0.000978 seconds
+[2020.06.04-15.32.33:773][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Collections/' took 0.00s
+[2020.06.04-15.32.33:773][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Developers/XBOXF/Collections/' took 0.00s
+[2020.06.04-15.32.33:773][  0]LogFileCache: Scanning file cache for directory 'F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Collections/' took 0.00s
+[2020.06.04-15.32.33:773][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 3165 classes and 735 folders.
+[2020.06.04-15.32.33:776][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.04-15.32.33:828][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.04-15.32.33:831][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.06.04-15.32.33:918][  0]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.04-15.32.33:920][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.04-15.32.33:925][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.04-15.32.34:010][  0]LogRenderer: Reallocating scene render targets to support 1248x640 Format 10 NumSamples 1 (Frame:1).
+[2020.06.04-15.32.34:105][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.04-15.32.34:105][  0]LogLoad: (Engine Initialization) Total time: 9.10 seconds
+[2020.06.04-15.32.34:105][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.04-15.32.34:172][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.04-15.32.34:204][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.04-15.32.34:224][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/' took 0.10s
+[2020.06.04-15.32.34:248][  1]LogAssetRegistry: Asset discovery search completed in 5.4160 seconds
+[2020.06.04-15.32.34:252][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2020.06.04-15.33.26:360][349]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Super_Jump...
+[2020.06.04-15.33.26:360][349]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Abilities/Super_Jump.Super_Jump will be modified from 40 to 40.
+[2020.06.04-15.33.26:385][349]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 45512 while cooking SoundWave /Game/Sound/Abilities/Super_Jump.Super_Jump.
+[2020.06.04-15.33.38:284][672]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Turbo_Boost...
+[2020.06.04-15.33.38:284][672]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Abilities/Turbo_Boost.Turbo_Boost will be modified from 40 to 40.
+[2020.06.04-15.33.38:295][672]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 55038 while cooking SoundWave /Game/Sound/Abilities/Turbo_Boost.Turbo_Boost.
+[2020.06.04-15.33.40:400][914]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Shrink...
+[2020.06.04-15.33.40:400][914]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Abilities/Shrink.Shrink will be modified from 40 to 40.
+[2020.06.04-15.33.40:417][914]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 128948 while cooking SoundWave /Game/Sound/Abilities/Shrink.Shrink.
+[2020.06.04-15.33.41:285][ 13]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Rubberize...
+[2020.06.04-15.33.41:285][ 13]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Abilities/Rubberize.Rubberize will be modified from 40 to 40.
+[2020.06.04-15.33.41:299][ 13]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 94460 while cooking SoundWave /Game/Sound/Abilities/Rubberize.Rubberize.
+[2020.06.04-15.33.42:333][133]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave DeRubberize...
+[2020.06.04-15.33.42:333][133]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Abilities/DeRubberize.DeRubberize will be modified from 40 to 40.
+[2020.06.04-15.33.42:347][133]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 94460 while cooking SoundWave /Game/Sound/Abilities/DeRubberize.DeRubberize.
+[2020.06.04-15.33.47:779][723]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave UnShrink...
+[2020.06.04-15.33.47:779][723]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Abilities/UnShrink.UnShrink will be modified from 40 to 40.
+[2020.06.04-15.33.47:796][723]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 125004 while cooking SoundWave /Game/Sound/Abilities/UnShrink.UnShrink.
+[2020.06.04-15.34.00:302][170]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Bounce...
+[2020.06.04-15.34.00:302][170]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Interactables/Bounce.Bounce will be modified from 40 to 40.
+[2020.06.04-15.34.00:319][170]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 151774 while cooking SoundWave /Game/Sound/Interactables/Bounce.Bounce.
+[2020.06.04-15.34.01:437][300]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Cannon_fire...
+[2020.06.04-15.34.01:438][300]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Interactables/Cannon_fire.Cannon_fire will be modified from 40 to 40.
+[2020.06.04-15.34.01:460][300]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 189968 while cooking SoundWave /Game/Sound/Interactables/Cannon_fire.Cannon_fire.
+[2020.06.04-15.34.02:563][427]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Enter_Cannon...
+[2020.06.04-15.34.02:563][427]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Interactables/Enter_Cannon.Enter_Cannon will be modified from 40 to 40.
+[2020.06.04-15.34.02:586][427]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 170232 while cooking SoundWave /Game/Sound/Interactables/Enter_Cannon.Enter_Cannon.
+[2020.06.04-15.34.05:784][805]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Spike_damage...
+[2020.06.04-15.34.05:784][805]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Interactables/Spike_damage.Spike_damage will be modified from 40 to 40.
+[2020.06.04-15.34.05:799][805]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 115172 while cooking SoundWave /Game/Sound/Interactables/Spike_damage.Spike_damage.
+[2020.06.04-15.34.13:806][741]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Menu_Click...
+[2020.06.04-15.34.13:806][741]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Menu/Menu_Click.Menu_Click will be modified from 40 to 40.
+[2020.06.04-15.34.13:818][741]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 88064 while cooking SoundWave /Game/Sound/Menu/Menu_Click.Menu_Click.
+[2020.06.04-15.34.14:734][845]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Menu_Transition...
+[2020.06.04-15.34.14:734][845]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Menu/Menu_Transition.Menu_Transition will be modified from 40 to 40.
+[2020.06.04-15.34.14:746][845]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 75176 while cooking SoundWave /Game/Sound/Menu/Menu_Transition.Menu_Transition.
+[2020.06.04-15.34.17:067][112]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Ability_Pickup...
+[2020.06.04-15.34.17:067][112]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Pickups/Ability_Pickup.Ability_Pickup will be modified from 40 to 40.
+[2020.06.04-15.34.17:098][112]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 267652 while cooking SoundWave /Game/Sound/Pickups/Ability_Pickup.Ability_Pickup.
+[2020.06.04-15.34.17:878][201]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Coin_pickup...
+[2020.06.04-15.34.17:878][201]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Pickups/Coin_pickup.Coin_pickup will be modified from 40 to 40.
+[2020.06.04-15.34.17:902][201]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 201736 while cooking SoundWave /Game/Sound/Pickups/Coin_pickup.Coin_pickup.
+[2020.06.04-15.34.29:080][492]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10025600-1-1-1-1-1 wave Ball_Jump...
+[2020.06.04-15.34.29:080][492]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Player/Ball_Jump.Ball_Jump will be modified from 40 to 40.
+[2020.06.04-15.34.29:090][492]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 40960 while cooking SoundWave /Game/Sound/Player/Ball_Jump.Ball_Jump.
+[2020.06.04-15.34.44:566][263]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.04-15.34.44:584][263]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/BP_SoundManager.BP_SoundManager
+[2020.06.04-15.34.44:771][263]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.06.04-15.34.45:772][263]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.04-15.34.45:889][264]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.04-15.35.46:832][155]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.06.04-15.36.28:843][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/I_SoundManager.I_SoundManager
+[2020.06.04-15.37.00:642][505]BlueprintLog: New page: Compile BP_SoundManager
+[2020.06.04-15.37.00:936][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.06.04-15.39.04:720][109]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/Interactables/Bounce_Cue.Bounce_Cue
+[2020.06.04-15.39.10:328][741]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/Interactables/Bounce.Bounce
+[2020.06.04-15.40.03:350][658]BlueprintLog: New page: Compile BP_SoundManager
+[2020.06.04-15.40.03:635][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.06.04-15.40.10:746][451]BlueprintLog: New page: Compile BP_SoundManager
+[2020.06.04-15.40.11:032][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.06.04-15.40.44:293][209]BlueprintLog: New page: Compile BP_SoundManager
+[2020.06.04-15.40.44:579][209]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.06.04-15.40.45:899][340]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.06.04-15.40.45:976][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/BP_SoundManager55BF3B4049B6B229C5B3FDB1C4AABB40.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/RollingBP/Blueprints/BP_SoundManager.uasset'
+[2020.06.04-15.40.45:992][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/I_SoundManager40C2762D406EED4CF569B2B666F972C0.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/RollingBP/Blueprints/I_SoundManager.uasset'
+[2020.06.04-15.40.45:998][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/DeRubberize_Cue8E0EFC2E44B8C816596AA49A340298E7.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/DeRubberize_Cue.uasset'
+[2020.06.04-15.40.46:004][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Rubberize_CueDDE5AA044C97EC3379E962AB93AC26E5.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/Rubberize_Cue.uasset'
+[2020.06.04-15.40.46:011][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Super_Jump_CueD60FE6E0422EA20554B02B8ABE1E8469.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/Super_Jump_Cue.uasset'
+[2020.06.04-15.40.46:013][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Abilities/Shrink_Cue" FILE="../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/Shrink_Cue.uasset" SILENT=true
+[2020.06.04-15.40.46:017][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Shrink_CueBDB3B3984B2813EE1C983C906A9E284A.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/Shrink_Cue.uasset'
+[2020.06.04-15.40.46:023][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Turbo_Boost_Cue3E771E874FEFA1DB8FCAF49508F5F63E.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/Turbo_Boost_Cue.uasset'
+[2020.06.04-15.40.46:029][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/UnShrink_Cue142804894950A59994D2C9999BC9DBAF.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Abilities/UnShrink_Cue.uasset'
+[2020.06.04-15.40.46:035][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Spike_damage_Cue0982EAE340844D1AB51D37BFB6502314.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Interactables/Spike_damage_Cue.uasset'
+[2020.06.04-15.40.46:041][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Enter_Cannon_CueF894FBE545D8D385A9C80DABEB3E2EF1.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Interactables/Enter_Cannon_Cue.uasset'
+[2020.06.04-15.40.46:048][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Cannon_fire_Cue104793B84588222B9EA622916683DDEF.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Interactables/Cannon_fire_Cue.uasset'
+[2020.06.04-15.40.46:054][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Bounce_Cue0B8D29FE4DBC212127729488BD740D71.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Interactables/Bounce_Cue.uasset'
+[2020.06.04-15.40.46:056][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Menu/Menu_Click_Cue" FILE="../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Menu/Menu_Click_Cue.uasset" SILENT=true
+[2020.06.04-15.40.46:060][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Menu_Click_Cue740A87A245B67E10C6E2F2A16CD7CB6C.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Menu/Menu_Click_Cue.uasset'
+[2020.06.04-15.40.46:066][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Menu_Transition_Cue2DD222FD474A9E09DC2990933B28932B.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Menu/Menu_Transition_Cue.uasset'
+[2020.06.04-15.40.46:073][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Ability_Pickup_Cue9BDA13FA41E16D7C1C4B57ABC68BAD24.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Pickups/Ability_Pickup_Cue.uasset'
+[2020.06.04-15.40.46:079][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Coin_pickup_CueD703FC374861B6CDB656ABA2EAEEBACC.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Pickups/Coin_pickup_Cue.uasset'
+[2020.06.04-15.40.46:081][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Player/Ball_Jump_Cue" FILE="../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Player/Ball_Jump_Cue.uasset" SILENT=true
+[2020.06.04-15.40.46:085][340]LogSavePackage: Moving '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Saved/Ball_Jump_Cue17205EB14B04D2C16C51609FFF124E59.tmp' to '../../../../../../Development/Junior Collab Games/In-Engine/Clone/Team17Colab/Content/Sound/Player/Ball_Jump_Cue.uasset'
+[2020.06.04-15.40.46:184][340]AssetCheck: New page: Asset Save: multiple assets
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/Blueprints/BP_SoundManager.BP_SoundManager
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating Blueprint /Game/RollingBP/Blueprints/I_SoundManager.I_SoundManager
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Abilities/DeRubberize_Cue.DeRubberize_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Abilities/Rubberize_Cue.Rubberize_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Abilities/Super_Jump_Cue.Super_Jump_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Abilities/Shrink_Cue.Shrink_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Abilities/Turbo_Boost_Cue.Turbo_Boost_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Abilities/UnShrink_Cue.UnShrink_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Interactables/Spike_damage_Cue.Spike_damage_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Interactables/Enter_Cannon_Cue.Enter_Cannon_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Interactables/Cannon_fire_Cue.Cannon_fire_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Interactables/Bounce_Cue.Bounce_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Menu/Menu_Click_Cue.Menu_Click_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Menu/Menu_Transition_Cue.Menu_Transition_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Pickups/Ability_Pickup_Cue.Ability_Pickup_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Pickups/Coin_pickup_Cue.Coin_pickup_Cue
+[2020.06.04-15.40.46:184][340]LogContentValidation: Display: Validating SoundCue /Game/Sound/Player/Ball_Jump_Cue.Ball_Jump_Cue
+[2020.06.04-15.40.59:648][802]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/LevelPlaceable/BP_CannonLauncher.BP_CannonLauncher
+[2020.06.04-15.41.40:324][412]BlueprintLog: New page: Compile BP_CannonLauncher
+[2020.06.04-15.41.40:653][412]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.06.04-15.44.05:474][144]BlueprintLog: New page: Compile BP_CannonLauncher
+[2020.06.04-15.44.05:479][144]LogBlueprint: Error: [Compiler BP_CannonLauncher] Message node  I Play SFX  must have a valid target or reference to self.
+[2020.06.04-15.44.05:795][144]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.06.04-15.44.41:079][ 28]LogRenderer: Reallocating scene render targets to support 1248x708 Format 10 NumSamples 1 (Frame:1).
+[2020.06.04-15.45.17:330][ 59]BlueprintLog: New page: Compile BP_CannonLauncher
+[2020.06.04-15.45.17:335][ 59]LogBlueprint: Error: [Compiler BP_CannonLauncher] Message node  I Play SFX  must have a valid target or reference to self.
+[2020.06.04-15.45.17:642][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2020.06.04-15.46.10:466][ 19]BlueprintLog: New page: Compile BP_CannonLauncher
+[2020.06.04-15.46.10:471][ 19]LogBlueprint: Error: [Compiler BP_CannonLauncher] Message node  I Play SFX  must have a valid target or reference to self.
+[2020.06.04-15.46.10:781][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.06.04-15.46.15:829][589]BlueprintLog: New page: Compile BP_CannonLauncher
+[2020.06.04-15.46.15:835][589]LogBlueprint: Error: [Compiler BP_CannonLauncher] Message node  I Play SFX  must have a valid target or reference to self.
+[2020.06.04-15.46.16:155][589]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.06.04-15.46.26:228][679]BlueprintLog: New page: Compile BP_CannonLauncher
+[2020.06.04-15.46.26:233][679]LogBlueprint: Error: [Compiler BP_CannonLauncher] Message node  I Play SFX  must have a valid target or reference to self.
+[2020.06.04-15.46.26:537][679]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.06.04-15.47.00:836][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/RollingGameMode.RollingGameMode
+[2020.06.04-15.47.19:519][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/I_MarbleGameInstance.I_MarbleGameInstance
+[2020.06.04-15.47.27:469][399]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-15.47.27:469][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-15.47.32:740][909]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RollingBP/Blueprints/I_GameMode.I_GameMode
+[2020.06.04-15.48.17:564][168]BlueprintLog: New page: Compile I_GameMode
+[2020.06.04-15.48.17:651][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2020.06.04-15.48.19:016][311]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.06.04-15.48.19:016][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.04-15.48.22:669][690]BlueprintLog: New page: Compile I_SoundManager
+[2020.06.04-15.48.22:764][690]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2020.06.04-15.48.56:587][145]BlueprintLog: New page: Compile RollingGameMode
+[2020.06.04-15.48.56:601][145]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.06.04-15.48.57:203][145]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.602 s
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: 
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: Ensure condition failed: !ExistingGraph [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp] [Line: 2241]
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: Graph I_GetSoundManager already exists: EdGraph /Game/RollingBP/Blueprints/RollingGameMode.RollingGameMode:I_GetSoundManager
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: Stack: 
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc58934f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc501d179 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc5017829 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc5016416 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdbf07dd14 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc3be3e16 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc3b90f72 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc3b90d04 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc50932f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc3c868fd UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdc3ca25c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde2c6c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde3a2b22 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde382074 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde411498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde429281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde28323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde309175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde2f413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffdde2e8f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe03ff4ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe03fe242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe03ff7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe03fdec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe26475c0d USER32.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe26475602 USER32.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ffe03ff8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ff795986db0 UE4Editor.exe!UnknownFunction []
+[2020.06.04-15.48.57:203][145]LogOutputDevice: Error: [Callstack] 0x00007ff79599c3ec UE4Editor.exe!UnknownFunction []
+[2020.06.04-15.48.57:204][145]LogOutputDevice: Error: [Callstack] 0x00007ff79599c4ca UE4Editor.exe!UnknownFunction []
+[2020.06.04-15.48.57:204][145]LogOutputDevice: Error: [Callstack] 0x00007ff7959aceae UE4Editor.exe!UnknownFunction []
+[2020.06.04-15.48.57:204][145]LogOutputDevice: Error: [Callstack] 0x00007ff7959afcbe UE4Editor.exe!UnknownFunction []
+[2020.06.04-15.48.57:204][145]LogOutputDevice: Error: [Callstack] 0x00007ffe26df7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.04-15.48.57:204][145]LogOutputDevice: Error: [Callstack] 0x00007ffe2774ce51 ntdll.dll!UnknownFunction []
+[2020.06.04-15.48.57:204][145]LogOutputDevice: Error: 
+[2020.06.04-15.48.57:211][145]LogStats:                SubmitErrorReport -  0.000 s
