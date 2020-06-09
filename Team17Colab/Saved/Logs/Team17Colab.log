@@ -2951,3 +2951,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.09-17.33.04:948][ 18]LogFileHelpers: Saving map 'Descent1' took 0.694
 [2020.06.09-17.33.04:990][ 18]AssetCheck: New page: Asset Save: Descent1
 [2020.06.09-17.33.04:990][ 18]LogContentValidation: Display: Validating World /Game/RollingBP/Maps/Descent1.Descent1
+[2020.06.09-17.35.50:366][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
